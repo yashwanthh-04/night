@@ -1,2 +1,8 @@
 yashu
+<<<<<<< HEAD
 suma
+=======
+yashuyashu
+>>>>>>> y1
+
+yashuuuuu
